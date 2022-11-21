@@ -1,0 +1,13 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "eventGridTrigger",
+      "name": "event",
+      "direction": "in",
+	  "eventHubName": "egregius", 
+	  "connection": "Endpoint=sb://egregius.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=u5NmpSjSCPW2M5YbjrrjngyTD1UA49G5sLA7MFSwd6k="
+    }
+  ]
+}
+

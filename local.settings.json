@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "MyDbConnection":"mongodb://egregius-database:5qJlpzzh1ZRUT2hXL7aENwLTYstmUF28Cx6pyluYHRE5Z7nBvW69FPQgU3LZr64SzHDXxDofBqnYACDbDPaWVg==@egregius-database.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@egregius-database@",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "013d84eb-f283-44dc-9a81-c411263ba976",
+    "FUNCTIONS_EXTENSION_VERSION": "~3"
+  },
+  "ConnectionStrings": {},
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=egregius;AccountKey=IJ6L/CIao/IRMcrCb0ux5J+xhqdlPpFOKjKkY3j8igq04qb67bRKVAqtw4gfGh6ErxHPiIyghREq+AStyLBT3Q==;EndpointSuffix=core.windows.net"
+}
