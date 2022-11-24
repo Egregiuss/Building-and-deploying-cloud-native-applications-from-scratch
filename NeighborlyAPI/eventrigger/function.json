@@ -17,8 +17,8 @@
       "type": "sendGrid",
       "name": "sendGridMessage",
       "direction": "out",
-      "apiKey": <send-grid api key>,
-      "from": <e-mail>
+      "apiKey": "<send-grid api key>",
+      "from": "<e-mail>"
     }
   ]
 }
