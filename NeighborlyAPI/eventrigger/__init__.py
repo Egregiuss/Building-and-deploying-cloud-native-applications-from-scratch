@@ -9,7 +9,7 @@ def main(req: func.HttpRequest, sendGridMessage: func.Out[str]) -> func.HttpResp
     message = {
         "personalizations": [ {
           "to": [{
-            "email": "daegregius@gmail.com"
+            "email": "<e-mail>"
             }]}],
         "subject": "[AZURE FUNCTIONS SENDGRID] email",
         "content": [{
